@@ -322,6 +322,11 @@ section.featuredbrandssection {
 		float:right;
   }
 
+	.deals{
+  display: absolute;
+
+	}
+
 	section.deal1 {
 		display:inline-block;
 		width:33.333%;
