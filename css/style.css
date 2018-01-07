@@ -105,10 +105,10 @@ iframe {
 	height: 353px;
 }
 
-/*.wrapper {
+.wrapper {
 	width: 960px;
 	margin: 0 auto;
-}*/
+}
 
 .shadow {
 	box-shadow: 0 3px 10px #333;
@@ -322,21 +322,21 @@ section.featuredbrandssection {
 		float:right;
   }
 
-	.deal1 {
+	section.deal1 {
 		display:inline;
 		/*width:33.333%;
 		margin:0% 0% 0% 0%;*/
 		/*float:left;*/
 	}
 
-	.deal2 {
+	section.deal2 {
 		display:inline;
 		/*width:33.333%;*/
 		/*margin:0% 0% 0% 0%;*/
 		/*float: middle;*/
 	}
 
-	.deal3 {
+	section.deal3 {
 		display:inline;
 		/*width:33.333%;*/
 		/*margin:0% 0% 0% 0%;*/
