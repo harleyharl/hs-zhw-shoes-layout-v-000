@@ -322,8 +322,21 @@ section.featuredbrandssection {
 		float:right;
   }
 
-	.deals {
-		display:inline-block;
+	.deal1 {
+		display:block;
+		width:33.333%;
+		margin:0% 0% 0% 0%;
+		float:left;
+	}
+
+	.deal2 {
+		display:block;
+		width:33.333%;
+		margin:0% 0% 0% 0%;
+	}
+
+	.deal3 {
+		display:block;
 		width:33.333%;
 		margin:0% 0% 0% 0%;
 	}
