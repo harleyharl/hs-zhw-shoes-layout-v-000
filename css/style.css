@@ -316,9 +316,9 @@ section.featuredbrandssection {
 	}
 
 .archivelist {
-    display:inline-block;
+    display:block;
 		width:32.333%;
-		margin:0% 0% 0% 1%;
+		margin:0% 0% 1% 1%;
 		float:right;
   }
 
@@ -340,5 +340,5 @@ section.featuredbrandssection {
 		display:inline-block;
 		width:33.333%;
 		margin:0% 0% 0% 0%;
-		float:right;
+		float: right;
 	}
