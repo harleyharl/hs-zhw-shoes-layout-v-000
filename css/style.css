@@ -324,21 +324,21 @@ section.featuredbrandssection {
 
 	section.deal1 {
 		display:inline-block;
-		/*width:33.333%;
-		margin:0% 0% 0% 0%;*/
+		width:33.333%;
+		/*margin:0% 0% 0% 0%;*/*/
 		/*float:left;*/
 	}
 
 	section.deal2 {
 		display:inline-block;
-		/*width:33.333%;*/
+		width:33.333%;
 		/*margin:0% 0% 0% 0%;*/
 		/*float: middle;*/
 	}
 
 	section.deal3 {
 		display:inline-block;
-		/*width:33.333%;*/
+		width:33.333%;
 		/*margin:0% 0% 0% 0%;*/
 		/*float: right;*/
 	}
