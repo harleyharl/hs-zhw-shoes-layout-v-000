@@ -329,11 +329,10 @@ section.featuredbrandssection {
 
 
 	col-4 {
-		display:block;
+		display:inline-block;
 		width:33.333%;
 	}
 
 [class*="col-4"]{
 	float:left;
-	
 }
