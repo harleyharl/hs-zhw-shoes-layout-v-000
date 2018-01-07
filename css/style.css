@@ -323,7 +323,8 @@ section.featuredbrandssection {
   }
 
 	.deals{
-
+		display:block;
+		width: 100%;
 	}
 
 	section.deal1 {
