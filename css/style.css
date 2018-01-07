@@ -331,6 +331,7 @@ section.featuredbrandssection {
 .col-4 {
 		display:inline;
 		width:33.333%;
+		margin: 1%;
 	}
 
 [class*="col-4"]{
