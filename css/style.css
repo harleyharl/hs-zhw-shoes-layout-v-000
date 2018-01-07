@@ -333,10 +333,12 @@ section.featuredbrandssection {
 		display:block;
 		width:33.333%;
 		margin:0% 0% 0% 0%;
+		float: middle;
 	}
 
 	.deal3 {
 		display:block;
 		width:33.333%;
 		margin:0% 0% 0% 0%;
+		float: right;
 	}
