@@ -323,21 +323,21 @@ section.featuredbrandssection {
   }
 
 	.deal1 {
-		display:inline-block;
+		display:block;
 		width:33.333%;
 		margin:0% 0% 0% 0%;
 		float:left;
 	}
 
 	.deal2 {
-		display:inline-block;
+		display:block;
 		width:33.333%;
 		margin:0% 0% 0% 0%;
 		/*float: middle;*/
 	}
 
 	.deal3 {
-		display:inline-block;
+		display:block;
 		width:33.333%;
 		margin:0% 0% 0% 0%;
 		float: right;
