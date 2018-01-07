@@ -321,3 +321,9 @@ section.featuredbrandssection {
 		margin:0% 0% 1% 1%;
 		float:right;
   }
+
+	.deals {
+		display:block;
+		width:33.333%;
+		margin:0% 0% 0% 0%;
+	}
