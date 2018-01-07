@@ -316,7 +316,7 @@ section.featuredbrandssection {
 	}
 
 .archivelist {
-    display:block;
+    display:inline-block;
 		width:32.333%;
 		margin:0% 0% 1% 1%;
 		float:right;
